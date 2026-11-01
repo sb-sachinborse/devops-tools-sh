@@ -157,8 +157,14 @@ wget https://github.com/prometheus/prometheus/releases/download/v3.13.5/promethe
 ```
 tar -xvf prometheus-3.13.5.linux-amd64.tar.gz
 ```
+- blackbox_exporter
+```
+weget https://github.com/prometheus/blackbox_exporter/releases/download/v0.29.1/blackbox_exporter-0.29.1.linux-amd64.tar.gz
+```
 
-
+```
+tar -xvf blackbox_exporter-0.29.1.linux-amd64.tar.gz
+```
 <hr>
 
 
