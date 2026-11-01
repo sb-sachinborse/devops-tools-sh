@@ -149,6 +149,17 @@ pip3 install checkov
 
 <hr>
 
+## prometheus
+
+```
+wget https://github.com/prometheus/prometheus/releases/download/v3.13.5/prometheus-3.13.5.linux-amd64.tar.gz
+```
+```
+tar -xvf prometheus-3.13.5.linux-amd64.tar.gz
+```
+
+
+<hr>
 
 
 
