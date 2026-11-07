@@ -44,7 +44,7 @@ Browse to http://localhost:8080 (or whichever port you configured for Jenkins wh
 
 ```
 #install docker
-suod apt install docker.io -y
+sudo apt install docker.io -y
 
 # Add your current user to the docker group
 sudo usermod -aG docker $USER
