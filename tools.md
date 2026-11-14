@@ -98,6 +98,16 @@ sudo systemctl start docker
 docker --version
 ```
 
+- Add the jenkins user to the docker group:bash
+```
+sudo usermod -aG docker jenkins
+```
+- Restart the Jenkins service so the new group membership takes effect:bash
+```
+sudo systemctl restart jenkins
+```
+
+
 ## sonarqube using docker 
 ```
 docker run -d --name sonarqube-scan -p 9000:9000 sonarqube:community
