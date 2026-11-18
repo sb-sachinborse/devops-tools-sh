@@ -82,6 +82,20 @@ sh gcp-infra.sh
 ```
 
 
+<img width="1906" height="842" alt="Screenshot From 2026-11-18 15-48-44" src="https://github.com/user-attachments/assets/2df335b7-4658-4740-99c0-e9016f84ad55" />
+
+
+<img width="1327" height="393" alt="Screenshot From 2026-11-18 15-46-56" src="https://github.com/user-attachments/assets/021f889b-5c3c-42b4-ae30-77756aaa61e5" />
+
+<img width="1327" height="393" alt="Screenshot From 2026-11-18 15-47-13" src="https://github.com/user-attachments/assets/5ae25386-fa45-4876-b211-a690b5d13f16" />
+
+<img width="1618" height="390" alt="Screenshot From 2026-11-18 15-47-29" src="https://github.com/user-attachments/assets/ad737b9a-34b4-4340-91f7-780a27b48c58" />
+
+
+<img width="1621" height="439" alt="Screenshot From 2026-11-18 15-48-05" src="https://github.com/user-attachments/assets/aedbaf50-bb13-4e7e-b189-8e059f4c1b72" />
+
+
+<hr>
 
 Destroying Resources:
 To clean up resources, use the following script:
